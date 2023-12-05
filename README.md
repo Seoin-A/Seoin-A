@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=60&section=header&text=Seoin%20&fontSize=70&animation=blink&fontAlign=12&fontAlignY=60)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoin1223&show_icons=true&theme=tokyonight)   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoin1223)](https://github.com/seoin1223/github-readme-stats) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seoin1223&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoin1223&show_icons=true&theme=tokyonight)   
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seoin1223)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoin1223)](https://github.com/seoin1223/github-readme-stats) 
+
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seoin1223&theme=default)
