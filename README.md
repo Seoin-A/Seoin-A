@@ -1,15 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=60&section=header&text=Seoin%20&fontSize=70&animation=blink&fontAlign=12&fontAlignY=60)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Seoin-A&show_icons=true&theme=radical)](https://github.com/SeoinArt)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=seoin1223&show_icons=true&theme=radical)](https://github.com/SeoinArt)
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seoin-A)](https://github.com/SeoinArt/github-readme-stats)-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoin1223)](https://github.com/SeoinArt/github-readme-stats)-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seoin-A&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seoin-A&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seoin-A&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seoin-A&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seoin-A&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seoin1223&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seoin1223&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seoin1223&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seoin1223&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seoin1223&theme=default&utcOffset=8)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
