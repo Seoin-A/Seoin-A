@@ -3,7 +3,7 @@
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=seoin1223&show_icons=true&theme=radical)](https://github.com/seoin1223)
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoin1223)](https://github.com/SeoinArt/github-readme-stats)-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoin1223)](https://github.com/seoin1223/github-readme-stats)-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seoin1223&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seoin1223&theme=default)
